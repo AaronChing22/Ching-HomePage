@@ -1,0 +1,330 @@
+body {
+	background-color: #f7f7f7;
+}
+
+.Aaron {
+	width: 100%;
+	height: 80px;
+	background-color: #3b5998;
+	border-color: blue;
+	border-bottom:1px solid;
+	background-attachment: fixed;
+}
+
+.Aaron2 {
+	width: 100%;
+	height: 50px;
+	background-color: #3b5998;
+	border-color: blue;
+	border-bottom:1px solid;
+	background-attachment: fixed;
+}
+
+.logoDesign {
+	width: 50px;
+	height: 50px;
+	padding: 5px;
+}
+
+h2 {
+	color: white;
+	font-weight: bolder;
+	font-family: Trajan Pro;
+}
+.logoName {
+	margin-top: 10px;
+
+}
+
+.email {
+	color: white;
+	font-size: 12px;
+}
+
+.checkme {
+	color:#99a8ba;
+	font-size: 12px;
+	margin-top: -5px;
+}
+
+.EmailArea {
+	margin-top: 15px;
+}
+.logInArea{
+	width:170px;
+	height: 20px;
+}
+
+a, a:hover {
+	color:#99a8ba;
+}
+
+.button1, .button1:hover, .button1:active, .button1:link {
+	margin-top: 18px;
+	background-color: #4f6aa3;
+	border:1px solid #29447e;
+	    border-bottom-color:#1a356e;
+	    box-shadow:0 1px 0 rgba(0, 0, 0, .1);
+	    cursor:pointer;
+	    display:-moz-inline-box;
+	    display:inline-block;
+	    font-size: 12px;
+	    font-weight:bold;
+	    line-height:normal !important;
+	    padding:2px 6px;
+	    text-align:center;
+	    text-decoration:none;
+	    vertical-align:top;
+	    white-space:nowrap;
+	    color:#fff; 
+}
+
+.signUp {
+	font-family: Georgia;
+	font-weight: bold;
+}
+
+.caption1 {
+	font-family: arial;
+	font-size: 18px;
+}
+
+.btn {
+	border-color: gray;
+	text-align: left;
+	width: 100%;
+}
+
+td {
+	padding: 5px;
+}
+
+.bday {
+	font-size: 18px;
+	font-family: arial;
+}
+
+.btn-success {
+	text-align: center;
+}
+
+hr {
+	background-color:black;
+}
+
+.search {
+	padding:5px;
+	padding-left: 30px;
+}
+
+.search-area {
+	height: 35px;
+}
+
+.search-icons {
+	width: 15px;
+	height: 15px;
+}
+
+.profilePict {
+	width: 35px;
+	height: 35px;
+	padding:5px;
+	margin-top: 5px;
+}
+
+.aaronName, a.aaronName:hover {
+	color: white;
+	margin-top: 15px;
+	font-family: Helvetica;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.message {
+	width: 50px;
+	height: 50px;
+	padding:5px;
+	margin-top: -3px;
+}
+
+.coverPhoto {
+	width:100%;
+	height: 300px;
+}
+
+.profilePicture {
+	width:150px;
+	height: 150px;
+	position: absolute;
+	margin-left: 20px;
+	margin-top: -120px;
+}
+
+
+.thumbnail {
+	border-color: rgba(0,0,0,0.5);
+}
+
+.profileName {
+	font-family: Arial;
+	position: absolute;
+	margin-left: 190px;
+	margin-top: -80px;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+
+.thumbnail2 {
+	width: 100%;
+	height: 40px;
+	background-color: white;
+	border-left: 1px solid #c6c6a7;
+	border-right: 1px solid #c6c6a7;
+	border-bottom: 1px solid #c6c6a7;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+
+}
+
+.font2, td.font2 > a, a:hover {
+	font-family: Arial black;
+	color: #3b5998;
+	list-style-type: none;
+	text-decoration: none;
+	text-align: center;
+}
+
+.friends {
+	border-right: 1px solid #c6c6a7;
+}
+
+td.font2 {
+	border-left: 1px solid #c6c6a7;
+
+}
+
+td.font2:hover {
+	background-color: #f0f0f0;
+}
+
+img.about {
+	width: 50px;
+	height: 50px;
+}
+
+.about-title {
+	font-size: 25px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+.thumbnail3 {
+	width: 100%;
+	height: 70px;
+	background-color: white;
+	border-left: 1px solid #c6c6a7;
+	border-right: 1px solid #c6c6a7;
+	border-top: 1px solid #c6c6a7;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.thumbnail-box {
+	width: 100%;
+	height: 800px;
+	border-left: 1px solid #c6c6a7;
+	border-right: 1px solid #c6c6a7;
+	border-top: 1px solid #c6c6a7;
+	border-bottom: 1px solid #c6c6a7;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	background-color: white;
+	margin-bottom: 20px;
+}
+
+.thumbnail-box1 {
+	width: 100%;
+	height: 350px;
+	border-left: 1px solid #c6c6a7;
+	border-right: 1px solid #c6c6a7;
+	border-top: 1px solid #c6c6a7;
+	background-color: white;
+}
+
+.thumbnail-box2 {
+	width: 100%;
+	height: 250px;
+	border-left: 1px solid #c6c6a7;
+	border-right: 1px solid #c6c6a7;
+	border-top: 1px solid #c6c6a7;
+	background-color: white;
+}
+
+.thumbnail-box3 {
+	width: 100%;
+	height: 250px;
+	border-left: 1px solid #c6c6a7;
+	border-right: 1px solid #c6c6a7;
+	border-top: 1px solid #c6c6a7;
+	background-color: white;
+}
+
+.thumbnail-box4 {
+	width: 100%;
+	height: 250px;
+	border-left: 1px solid #c6c6a7;
+	border-right: 1px solid #c6c6a7;
+	border-top: 1px solid #c6c6a7;
+	border-bottom: 1px solid #c6c6a7;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	background-color: white;
+	margin-bottom: 20px;
+}
+
+
+h2.about-workEducation {
+	color: black;
+	font-size: 20px;
+	padding: 10px;
+}
+
+.laverdad {
+	width: 80px;
+	height: 50px;
+}
+
+a.link-laverdad:hover {
+	color:#99a8ba;
+}
+
+.hometown {
+	font-size: 12px;
+	color: gray;
+}
+
+.contact-Info {
+	font-family: Trajan Pro;
+	font-size: 15px;
+}
+
+/*.friends-image {
+	width: 200px;
+	height: 180px;
+	padding: -50px;
+}*/
+
+.friend-name, .friend-name:hover {
+	font-family: arial;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: center;
+}
+
+.friendc-image {
+	height: 290px;
+	width: 180px;
+	padding: -50px;
+}
+
+
